@@ -1,0 +1,13 @@
+C:\Users\HP-PC\OneDrive\Pictures\Desktop\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.GameForm.resources
+C:\Users\HP-PC\OneDrive\Pictures\Desktop\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.MainMenuForm.resources
+C:\Users\HP-PC\OneDrive\Pictures\Desktop\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.MatrixSelectionForm.resources
+C:\Users\HP-PC\OneDrive\Pictures\Desktop\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\HP-PC\OneDrive\Pictures\Desktop\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.ResultForm.resources
+C:\Users\HP-PC\OneDrive\Pictures\Desktop\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\HP-PC\OneDrive\Pictures\Desktop\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\OneDrive\Pictures\Desktop\tictactoe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\HP-PC\OneDrive\Pictures\Desktop\tictactoe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\HP-PC\OneDrive\Pictures\Desktop\tictactoe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\HP-PC\OneDrive\Pictures\Desktop\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\HP-PC\OneDrive\Pictures\Desktop\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\HP-PC\OneDrive\Pictures\Desktop\tictactoe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
